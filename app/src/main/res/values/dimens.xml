@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Habría que haberlo hecho asi para poder modificar facilmente a futuro -->
+
+    <dimen name="box_size">32dp</dimen>
+
+</resources>
