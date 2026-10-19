@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ViewsKata</string>
+    <string name="name">Name</string>
+    <string name="surname">Surame</string>
+    <string name="age">Age</string>
+    <string name="phone">Phone</string>
+    <string name="Delete">Delete</string>
+    <string name="Send">Send</string>
+    <string name="Product">Manzana Roja \nDulce</string>
+    <string name="weight">Pieza 260g aprox</string>
+    <string name="price">0,70 €/ud</string>
+    <string name="add">Añadir al carrito</string>
+    <string name="line">------------------------------------------------------------------------------------------------------------</string>
+    <string name="Product2">Manzana Golden</string>
+    <string name="weight2">Pieza 240g aprox</string>
+    <string name="price2">0,46 €/ud</string>
+    <string name="firstLineE2">FRI, NOV 28 AT 2:30PM</string>
+    <string name="secondLineE2">Wobble Gobble Turkey Trot \n5K and 10K</string>
+    <string name="thirdLineE2">Brickyard Park Bountigul, UT</string>
+    <string name="interested">Interested</string>
+    <string name="ahorroCarro">Ahorro carro</string>
+    <string name="cuentaBancariaParaElDeposito">Cuenta bancaria para el deposito:</string>
+    <string name="numeroCuenta">875097567</string>
+    <string name="fecha1">30/06/2025</string>
+    <string name="fechaInicio">Fecha de inicio</string>
+    <string name="fecha2">30/06/2026</string>
+    <string name="fechaVencimeinto">Fecha de vencimiento</string>
+    <string name="rl_label_surname">surname 1</string>
+    <string name="rl_label_surname2">surname 2</string>
+    <string name="rl_label_name">name</string>
+    <string name="rl_label_age">age</string>
+    <string name="rl_label_address">address</string>
+    <string name="rl_label_phone">phone\n</string>
+    <string name="rl_label_cp">cp</string>
+
+</resources>
